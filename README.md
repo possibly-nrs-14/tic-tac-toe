@@ -7,9 +7,7 @@ The following files and directories can be found:
 4. **`udp_server.c`**: A UDP server implementation for the tic-tac-toe board game.
 5. **`common.c`**: Functions used in all of the above files.
 6. **`common.h`**: Header file of `common.c`
-7. **partB**: This is a directory which contains 2 files for the implementation of "fake it till you make it":
-    - `server.c`: A udp server with data sequencing & retransmission.
-    - `client.c`: A udp client with data sequencing & retransmission.
+
 
 For the tic-tac-toe game, you must have 3 terminals ready: one for each client & one for the server.
 
