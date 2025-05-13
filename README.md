@@ -1,4 +1,5 @@
 # Tic-tac-toe game implementation in C using sockets
+This game has beem implemented separately with both TCP and UDP protocols.
 ## File Structure  & Instructions
 The following files and directories can be found:
 1. **`tcp_client.c`**: A TCP client implementation for the tic-tac-toe board game.
